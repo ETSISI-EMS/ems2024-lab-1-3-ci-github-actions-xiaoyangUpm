@@ -19,4 +19,12 @@ public class HolaController {
 	model.addAttribute("nombre", nombre);
 	return "hola";
     }
+
+
+    @RequestMapping("/adios")
+    public String adios() {
+
+        return "adios";
+    }
+
 }
