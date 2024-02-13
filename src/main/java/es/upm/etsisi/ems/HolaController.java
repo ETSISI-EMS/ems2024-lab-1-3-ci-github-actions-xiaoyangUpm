@@ -27,4 +27,10 @@ public class HolaController {
         return "adios";
     }
 
+
+    @RequestMapping("/adios")
+    public String adios2() {
+
+        return "adios";
+    }
 }
