@@ -1,4 +1,4 @@
-name: Build and test2 of Java Project
+name: Build and test222 of Java Project
 on: [push]
 jobs:
   build:
