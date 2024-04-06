@@ -1,5 +1,4 @@
-[![Build and test of Java Project](https://github.com/ETSISI-EMS/ems2024-lab-1-3-ci-github-actions-xiaoyangUpm/actions/workflows/main.yml/badge.svg)](https://github.com/ETSISI-EMS/ems2024-lab-1-3-ci-github-actions-xiaoyangUpm/actions/workflows/main.yml)
-
+[![Prueba si hace bien](https://github.com/ETSISI-EMS/ems2024-lab-1-3-ci-github-actions-xiaoyangUpm/actions/workflows/prueba.yml/badge.svg)](https://github.com/ETSISI-EMS/ems2024-lab-1-3-ci-github-actions-xiaoyangUpm/actions/workflows/prueba.yml)
 # Pipeline de Integración Continua con GitHub Actions
 
 Repositorio para el laboratorio de CI con GitHub Actions
